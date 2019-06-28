@@ -1,0 +1,12 @@
+Simulation study for log normal parameter priors
+
+Removed because ess<100
+
+[1] "low"
+[1] 74
+[1] "mixed"
+[1] 74
+[1] "high"
+[1] 38
+[1] 74
+[1] 75
